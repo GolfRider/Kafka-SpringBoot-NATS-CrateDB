@@ -14,7 +14,7 @@
                  => [Kafka Publisher publishes the message to a Kafka Topic (Spring Bean)
                  => [Kafka Consumer then persists the message to CRATE database (Spring Bean)]
 
-#### Some thougts : 
+#### Some thoughts : 
          1. Kafka serves as a durable-cum-distributed messaging server
          2. Spring Boot serves as Java -microframework  for Restful APIs.
          3. NATS serves as a high-performance in-memory/distributed messaging server
