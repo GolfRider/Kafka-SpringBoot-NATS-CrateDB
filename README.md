@@ -5,6 +5,7 @@
          2. Spring Boot - Java Microframework [http://projects.spring.io/spring-boot/]
          3. NATS Messaging Server  - High Performance Messaging Serverr [http://nats.io/]
          4. Crate DB  - Scalable DB based on ElasticSearch [https://crate.io/]
+         5. These technologies can be potentially good candidates for distributed/micro-services based systems
          
 #### Application Flow:
          [Rest Request (Browser/Postman/Rest Client)] 
