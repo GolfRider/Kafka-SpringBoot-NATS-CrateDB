@@ -1,1 +1,1 @@
-# Kafka-SpringBoot-NATS-CrateDBs
+# Simple tutorial on integrating Kafka, SpringBoot, NATS & Crate DB
